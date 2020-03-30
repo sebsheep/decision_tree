@@ -1,0 +1,26 @@
+EXCLUDE_QUERY_DIR
+B /home/sebsheep/.opam/4.10.0/lib/angstrom
+B /home/sebsheep/.opam/4.10.0/lib/bigarray-compat
+B /home/sebsheep/.opam/4.10.0/lib/bigstringaf
+B /home/sebsheep/.opam/4.10.0/lib/bytes
+B /home/sebsheep/.opam/4.10.0/lib/ocaml
+B /home/sebsheep/.opam/4.10.0/lib/ounit2
+B /home/sebsheep/.opam/4.10.0/lib/ounit2/advanced
+B /home/sebsheep/.opam/4.10.0/lib/ppx_deriving/runtime
+B /home/sebsheep/.opam/4.10.0/lib/result
+B /home/sebsheep/.opam/4.10.0/lib/stdlib-shims
+B ../_build/default/BooleanFormulae/.booleanFormulae.objs/byte
+B ../_build/default/test/.test.eobjs/byte
+S /home/sebsheep/.opam/4.10.0/lib/angstrom
+S /home/sebsheep/.opam/4.10.0/lib/bigarray-compat
+S /home/sebsheep/.opam/4.10.0/lib/bigstringaf
+S /home/sebsheep/.opam/4.10.0/lib/bytes
+S /home/sebsheep/.opam/4.10.0/lib/ocaml
+S /home/sebsheep/.opam/4.10.0/lib/ounit2
+S /home/sebsheep/.opam/4.10.0/lib/ounit2/advanced
+S /home/sebsheep/.opam/4.10.0/lib/ppx_deriving/runtime
+S /home/sebsheep/.opam/4.10.0/lib/result
+S /home/sebsheep/.opam/4.10.0/lib/stdlib-shims
+S ../BooleanFormulae
+S .
+FLG -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs
